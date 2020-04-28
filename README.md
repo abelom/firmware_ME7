@@ -15,7 +15,8 @@ I have waited a long time for these things to be posted public, and a few days a
 
 I have proof for every single claim to be false.
 I have never sold anything of this, and not replaced header in any binary given away.
-
+I am one of the largest contributing to that project thru all time,
+so this conflicts with reality.
 
 I belive that sharing benefits everyone, so just ask polite if you need any of my code.
 If edidting the author are needed for some reason, just ask first.
