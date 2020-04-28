@@ -19,7 +19,7 @@ I am one of the largest contributing to that project thru all time,
 so this conflicts with reality.
 
 I belive that sharing benefits everyone, so just ask polite if you need any of my code.
-If edidting the author are needed for some reason, just ask first.
+If editing the author are needed for some reason, just ask first.
 
 
 I dont care about who wrote what, and think the whole mine/yours mentality belongs in the sandbox.
