@@ -24,6 +24,9 @@ Below are a example of the person acusing me are the only one actually replacing
 The person are also selling ecus, and use this commercial.
 
 
+Now I am finally done with the sick game, and able to look forward!
+
+
 
 ![Alt Text](https://github.com/960/firmware_ME7/blob/master/firmware/TortoiseGitMerge_rVFJZUbnu1.png)
 
