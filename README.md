@@ -26,6 +26,8 @@ I dont care about who wrote what, and think the whole mine/yours mentality belon
 Below are a example of the person acusing me are the only one actually replacing the name.
 The person are also selling ecus, and use this commercial.
 
+The Launch Control are completly my work, still it's found in a different repo with the author replaced.
+
 
 Now I am finally done with the sick game, and able to look forward!
 
