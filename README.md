@@ -27,8 +27,10 @@ The person are also selling ecus, and use this commercial.
 Now I am finally done with the sick game, and able to look forward!
 
 
+![Screenshot_20200426_125813_com Slack](https://user-images.githubusercontent.com/9406140/80541179-fcfb6180-89aa-11ea-87af-1825f6ddcde5.jpg)
+![Screenshot_20200426_125822_com Slack](https://user-images.githubusercontent.com/9406140/80541187-008ee880-89ab-11ea-9cb9-c6f61898f35e.jpg)
+![TortoiseGitMerge_rVFJZUbnu1](https://user-images.githubusercontent.com/9406140/80541306-37fd9500-89ab-11ea-9a8e-2a4e9e1cecc9.png)
 
-![Alt Text](https://github.com/960/firmware_ME7/blob/master/firmware/TortoiseGitMerge_rVFJZUbnu1.png)
 
 
 
